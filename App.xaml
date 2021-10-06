@@ -1,0 +1,24 @@
+﻿ <Application x:Class="code_anotator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:code_anotator"
+             xmlns:clr="clr-namespace:System;assembly=System.Runtime"
+             Startup="ApplicationStart">
+    <Application.Resources>
+        <clr:String x:Key="Language">EN</clr:String>
+        <clr:String x:Key="ProgrammingLanguage">TypeScript</clr:String>
+        <x:Array x:Key="Excentions" Type="clr:String">
+            <clr:String>.ts</clr:String>
+        </x:Array>
+        <x:Array x:Key="CommentClasses" Type="clr:String">
+            <clr:String>NOTICE</clr:String>
+            <clr:String>TODO</clr:String>
+            <clr:String>INLINE</clr:String>
+            <clr:String>FUNCTION</clr:String>
+            <clr:String>MODULE</clr:String>
+            <clr:String>IDE</clr:String>
+            <clr:String>CODE</clr:String>
+            <clr:String>GENERAL</clr:String>
+        </x:Array>
+    </Application.Resources>
+</Application>

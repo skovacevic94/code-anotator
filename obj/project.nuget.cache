@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVy+j3MwbywJKKhFXywJ/kf9ggQzU5GTXax73TfCAS9GparOfTIeuXwCr1xtASOOAcXXoX/5eFOwf+OsgSeViw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stank\\Source\\code-anotator\\code_anotator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stank\\.nuget\\packages\\avalonedit\\6.0.1\\avalonedit.6.0.1.nupkg.sha512",
+    "C:\\Users\\stank\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\stank\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}
